@@ -12,6 +12,7 @@ Original Exhibit 2
 <img width="941" alt="Screenshot 2024-02-19 at 5 24 29 PM" src="https://github.com/leticiatca/NASAvisualizations/assets/84414010/ea6300a6-0ed0-4a04-9f7f-ec6c596cf67c">
 
 Original Exhibit 5
+
 <img width="621" alt="Screenshot 2024-02-19 at 5 26 50 PM" src="https://github.com/leticiatca/NASAvisualizations/assets/84414010/e838b2e5-5dbc-4f6e-b855-19297ddda50f">
 
 ## Analysis and Improvements
