@@ -2,6 +2,8 @@
 
 This case looks at data from the failed NASA challenger launch and aims to propose solutions on how the data could have been better presented to avoid a disaster.
 
+More visualizations and Interactive Dashboard: Link
+
 ## The Scenario
 The launch of the Challenger space shuttle marked another important milestone in the story of space exploration and developments by NASA. However, the night before it was supposed to take place, engineers in the team of the rocket motor started to show concerns around the conditions of the launch. These engineers looked at data from all the tests and got to the key insight that the climate conditions, especially the temperatures, in the day of the desired launch were too low if compared to the ones of the successful tests. They had significant reason to believe that the O-ring component in the rocket would fail under the cold temperature. The business question then became if a delay of the launch due to the weather conditions concerns was worth the potential repercussions this would have on the mission and to NASA as an institution.
 
